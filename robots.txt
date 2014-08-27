@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /mail/
+Disallow: /sugarcrm/
+Disallow: /encuestas/
+Disallow: /testapp/
